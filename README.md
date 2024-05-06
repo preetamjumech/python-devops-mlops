@@ -1,3 +1,6 @@
+[![Python CI Steps Github Actions](https://github.com/preetamjumech/python-devops-mlops/actions/workflows/main.yml/badge.svg)](https://github.com/preetamjumech/python-devops-mlops/actions/workflows/main.yml)
+
+
 # python-devops-mlops
 All the tools for devops practice
 
