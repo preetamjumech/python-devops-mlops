@@ -7,3 +7,7 @@ All the tools for devops practice
 
 2. shebang line command
 `#!usr/bin/env python` , then run `python ./hello.py` at terminal
+
+3. test the file
+in make file `python -m pytest --vv --cov=hello test_*.py`
+
